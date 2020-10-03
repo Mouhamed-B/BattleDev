@@ -1,0 +1,5 @@
+long-text: { "SenFreelance est une plateforme qui regroupe les freelances sénégalais. Vous avez une idée de projet mais pas les compétences pour le réaliser ? Plus de soucis à vous faire avec un répertoire de plus de 1000 freelances dans de nombreux domaines, vous trouverez LA solution." }
+
+color: { #FF6D1B; #333333; #6B6B6B; #C0C0C0; #FFFFFF }
+
+font: { "Mulish"; "https://fonts.google.com/specimen/Mulish" }
